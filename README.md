@@ -1,2 +1,2 @@
 # The-ResuMintor
-Mint my CV as an BFT on different blockchain networks
+Mint my CV as an NFT on different blockchain networks
